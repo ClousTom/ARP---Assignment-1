@@ -5,6 +5,10 @@ The project provides the basic functionalities for the **Command** and **Inspect
 - The `include` folder contains all the data structures and methods used within the ncurses framework to build the two GUIs. Unless you want to expand the graphical capabilities of the UIs (which requires understanding how ncurses works), you can ignore the content of this folder, as it already provides you with all the necessary functionalities.
 - The `bin` folder is where the executable files are expected to be after compilation
 
+Project made by:
+Claudio Tomaiuolo S5630055
+Barış Aker S5430437
+
 ## ncurses installation
 To install the ncurses library, simply open a terminal and type the following command:
 ```console
