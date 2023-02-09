@@ -6,7 +6,9 @@ The project provides the basic functionalities for the **Command** and **Inspect
 - The `bin` folder is where the executable files are expected to be after compilation.
 
 ## Project made by:
+
 Claudio Tomaiuolo S5630055
+
 Barış Aker S5430437
 
 ## ncurses installation
