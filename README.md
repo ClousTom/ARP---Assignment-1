@@ -7,7 +7,6 @@ The project provides the basic functionalities for the **Command** and **Inspect
 
 ## Project made by:
 Claudio Tomaiuolo S5630055
-
 Barış Aker S5430437
 
 ## ncurses installation
