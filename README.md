@@ -12,11 +12,11 @@ sudo apt-get install libncurses-dev
 ```
 
 ## Compiling and running the code
-Make all the .c files in 'src/' executable, running:
+Make all the .c files in `src/` executable, running:
 ```console
 chmod +x *.c
 ```
-Move with the terminal to the folder where there are 'compile.sh' and 'run.sh' files. Run:
+Move with the terminal to the folder where there are `compile.sh` and `run.sh` files. Run:
 ```console
 ./compile.sh
 ```
