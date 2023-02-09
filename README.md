@@ -12,7 +12,7 @@ sudo apt-get install libncurses-dev
 ```
 
 ## Compiling and running the code
-Make all the .c files in `src/` executable, running:
+Make all the .c files inside `src/` executable, running:
 ```console
 chmod +x *.c
 ```
