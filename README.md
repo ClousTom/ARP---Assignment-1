@@ -1,11 +1,6 @@
-# ARP-Hoist-Assignment
-*Advanced and Robot Programming* (ARP) first assignment.
+# Hoist_Simulator (First Assignment for Advanced and Robot Programming)
 
-## Project made by:
 
-Claudio Tomaiuolo S5630055
-
-Barış Aker S5430437
 
 ## ncurses installation
 To install the ncurses library, simply open a terminal and type the following command:
